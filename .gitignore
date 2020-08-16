@@ -84,6 +84,10 @@ dwsync.xml
 #####################
 node_modules
 
+# VSCode #
+#####################
+.vscode
+
 # Bower #
 #####################
 bower_components

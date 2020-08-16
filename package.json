@@ -1,5 +1,5 @@
 {
-  "name": "alexa-voice-service",
+  "name": "@wellingtonsa/alexa-voice-service",
   "version": "0.0.10",
   "description": "Alexa Voice Service wrapper for the browser.",
   "main": "index.js",
